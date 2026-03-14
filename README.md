@@ -68,6 +68,10 @@ This helps identify high-value and high-profit customer segments.
 ## Quantity Performance
 ![Quantity Dashboard](quantity.png)
 
+## Gross Profit Performance
+![Gross Profit Dashboard](grossprofit.png)
+
+
 ---
 
 # 📊 Skills Demonstrated
