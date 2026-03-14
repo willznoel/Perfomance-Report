@@ -63,10 +63,10 @@ This helps identify high-value and high-profit customer segments.
 # 📷 Dashboard Preview
 
 ## Sales Performance
-![Sales Dashboard](sales_dashboard.png)
+![Sales Dashboard](sales.png)
 
 ## Quantity Performance
-![Quantity Dashboard](quantity_dashboard.png)
+![Quantity Dashboard](quantity.png)
 
 ---
 
